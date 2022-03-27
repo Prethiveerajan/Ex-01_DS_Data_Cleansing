@@ -40,5 +40,5 @@ print(df.isnull().sum())
 df.to_csv('Data_set.csv', index=False)
 ```
 # OUPUT:
-![output](ed.png) 
-![output](er.png) 
+![output](ed1.png) 
+![output](er2.png) 
