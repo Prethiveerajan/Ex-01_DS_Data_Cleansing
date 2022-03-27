@@ -42,3 +42,7 @@ df.to_csv('Data_set.csv', index=False)
 # OUPUT:
 ![output](ed1.png) 
 ![output](er2.png) 
+
+
+# RESULT:
+Thus, the given data is read, cleansed and the clean data is saved into the file.
