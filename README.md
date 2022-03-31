@@ -40,8 +40,10 @@ print(df.isnull().sum())
 df.to_csv('Data_set.csv', index=False)
 ```
 # OUPUT:
-![output](ed1.png) 
-![output](er2.png) 
+ ![output](output1.jpeg) 
+![output](output2.jpeg) 
+![output](output3.jpeg) 
+![output](output4.jpeg) 
 
 
 # RESULT:
